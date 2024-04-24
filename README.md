@@ -40,4 +40,4 @@ The project aims to highlight crucial business metrics and trends via a Power BI
 * Various visualization types used: **bar chart, pie chart, donut chart, clustered bar chart, scatter chart, line chart, area chart, map, slicers, etc.**
 
 ## Conclusion
-This project harnesses Power BI's capabilities to empower stakeholders with a dynamic platform for sales data analysis. The derived insights lead to informed decisions and refined sales strategies.
+This project harnesses Power BI's capabilities to empower stakeholders with a dynamic platform for sales data analysis. The derived insights lead to informed decisions and refined sales strategies.It provides a quantative basis for making claims and recommendations. 
