@@ -2,9 +2,10 @@
 
 ## Overview
 This project offers an in-depth analysis of an e-commerce enterprise leveraging **Power BI tools**. Key business metrics and trends are visualized through a comprehensive dashboard. The insights derived facilitate data-driven decision-making, aiding business growth. The project incorporates forecasting techniques for predictive analysis.
+Sales Analytics is the practice of using data analysis techniques and tools to gain insight s into sales trends,patterns and customers behavior. The data helps to optimize sales strategies, improve sales performance and increase revenue. 
 
 ## Aim
-The primary goal is to provide actionable insights into the e-commerce landscape, pinpointing areas for enhancement and growth through comprehensive analysis.
+The primary goal is to provide actionable insights into the e-commerce landscape, pinpointing areas for enhancement and growth through comprehensive analysis.Sales Analysis can be as simple as reviewing our sales figures regularly.Sales data can help us make better decisions about our product, pricing, inventory customers needs other ascepts of our business. 
 
 ## Installation
 To run this project, ensure you have **Microsoft Power BI** installed on your system.
